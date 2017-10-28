@@ -1,4 +1,4 @@
-# Roman Numerals Encoer
+# Roman Numerals Encoder
 ## I've solved this problem several ways.  This one was practice in classes and objects.
 ## To see the code, open the folder and then open "Program.cs."
 
